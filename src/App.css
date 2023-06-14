@@ -1,0 +1,23 @@
+#root {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.reg{
+  background-color: aqua;
+}
+form>input{
+
+  width:300px;
+  height: 35px;
+}
+.btn{
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+.log{
+  background-color: aqua;
+}
