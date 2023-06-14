@@ -2,4 +2,4 @@
 
 #output
 
-https://irf-react-router.netlify.app/login
+https://irf-react-router.netlify.app/
